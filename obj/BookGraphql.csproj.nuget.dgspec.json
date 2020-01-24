@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Productivity\\Dotnet Project\\BookGraphql\\BookGraphql.csproj": {}
+  },
+  "projects": {
+    "Z:\\Productivity\\Dotnet Project\\BookGraphql\\BookGraphql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Productivity\\Dotnet Project\\BookGraphql\\BookGraphql.csproj",
+        "projectName": "BookGraphql",
+        "projectPath": "Z:\\Productivity\\Dotnet Project\\BookGraphql\\BookGraphql.csproj",
+        "packagesPath": "C:\\Users\\dezan\\.nuget\\packages\\",
+        "outputPath": "Z:\\Productivity\\Dotnet Project\\BookGraphql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dezan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
